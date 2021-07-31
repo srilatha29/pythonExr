@@ -1,2 +1,2 @@
 # pythonExr
-all python execrcises
+All python execrcises
